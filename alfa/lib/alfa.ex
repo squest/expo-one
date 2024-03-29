@@ -1,8 +1,8 @@
 defmodule Alfa do
 
-  def hello do
-    IO.puts("Hello, Elixir!")
-  end
 
-  
+
+  def sol01(lim) do
+
+  end
 end
